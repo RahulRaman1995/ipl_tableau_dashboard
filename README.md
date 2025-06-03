@@ -23,3 +23,6 @@ This is an interactive IPL Dashboard built using Tableau Public.
 ## 🎯 Objective
 
 To analyze IPL match trends, player stats, and team performances using data storytelling in Tableau.
+
+## Screenshot Preview
+Show that dashboard looks like. - ![Alt text](https://github.com/RahulRaman1995/ipl_tableau_dashboard/blob/main/ipl_dashbord_image.png)
